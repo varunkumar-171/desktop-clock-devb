@@ -3,8 +3,10 @@
 .AppleDouble
 .LSOverride
 
-# Directory metadata
+# Directory and vscode metadata
 .directory
+.vscode
+.devcontainer
 
 # Temporary files
 *~

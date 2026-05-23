@@ -1,0 +1,18 @@
+SET(SOURCES screens/ui_WiFiScreen.c
+    screens/ui_HomeScreen.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    images/ui_img_713335961.c
+    images/ui_img_clock_nohands_png.c
+    images/ui_img_clock_secondshand_s_png.c
+    images/ui_img_hourhandre_png.c
+    images/ui_img_mm_20_png.c
+    images/ui_img_weather_png.c
+    images/ui_img_piplup_png.c
+    images/ui_img_mudkip_png.c
+    images/ui_img_wingull_png.c)
+
+idf_component_register(SRCS ${SOURCES}
+                       INCLUDE_DIRS "."
+                       REQUIRES lvgl)

@@ -1,0 +1,12 @@
+{
+    "uiExportFolderPath": "/home/varunkumar/Desktop-Clock/esp_clock_v1.0/components/ui",
+    "projectExportFolderPath": "/home/varunkumar/Desktop-Clock/app_component",
+    "drive_stdio": "-",
+    "drive_stdio_path": "",
+    "drive_posix": "-",
+    "drive_posix_path": "",
+    "drive_win32": "-",
+    "drive_win32_path": "",
+    "drive_fatfs": "-",
+    "drive_fatfs_path": ""
+}

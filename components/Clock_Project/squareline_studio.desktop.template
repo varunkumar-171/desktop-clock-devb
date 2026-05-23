@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SquareLine Studio
+Exec=env GDK_BACKEND=x11 __folder__/SquareLine_Studio.x86_64
+Path=__folder__/
+Icon=__folder__/squareline_logo_128.png
+Terminal=false
+Type=Application
+Categories=
+Comment="Visual drag-and-drop UI editor to create beautiful Graphical User Interfaces quickly and easily"
